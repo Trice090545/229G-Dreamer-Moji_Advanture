@@ -160,7 +160,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.7294118, g: 0.98823535, b: 0.98823535, a: 0}
+  m_BackGroundColor: {r: 0.6784314, g: 0.85098046, b: 0.9058824, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -306,7 +306,7 @@ Transform:
   m_GameObject: {fileID: 121361683}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.27, z: 0}
+  m_LocalPosition: {x: -1.19, y: 5.2, z: 0}
   m_LocalScale: {x: 0.51423, y: 0.46954, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -339,14 +339,14 @@ RectTransform:
   m_GameObject: {fileID: 891587558}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.1846, y: 2.1846, z: 2.1846}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1795960279}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -305, y: 98.00001}
+  m_AnchoredPosition: {x: -590, y: 139}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &891587560
@@ -383,9 +383,9 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "1.) \u0E0A\u0E19\u0E34\u0E28 \u0E40\u0E23\u0E37\u0E2D\u0E07\u0E40\u0E19\u0E15\u0E23
-    1600700676 \u0E40\u0E25\u0E02\u0E17\u0E35\u0E48 1 \n2.)\u0E1E\u0E07\u0E29\u0E4C\u0E01\u0E34\u0E15
+    1600700676 \u0E40\u0E25\u0E02\u0E17\u0E35\u0E48 1 \n2.) \u0E1E\u0E07\u0E29\u0E4C\u0E01\u0E34\u0E15
     \u0E40\u0E01\u0E35\u0E22\u0E23\u0E15\u0E34\u0E1E\u0E31\u0E12\u0E19\u0E32\u0E19\u0E38\u0E01\u0E39\u0E25
-    1630400602 \u0E40\u0E25\u0E02\u0E17\u0E35\u0E48 4 \n3.)\u0E1B\u0E31\u0E13\u0E13\u0E27\u0E34\u0E0A\u0E0D\u0E4C
+    1630400602 \u0E40\u0E25\u0E02\u0E17\u0E35\u0E48 4 \n3.) \u0E1B\u0E31\u0E13\u0E13\u0E27\u0E34\u0E0A\u0E0D\u0E4C
     \u0E20\u0E31\u0E17\u0E23\u0E27\u0E34\u0E28\u0E34\u0E29\u0E0E\u0E4C 1650701392
     \u0E40\u0E25\u0E02\u0E17\u0E35\u0E48 5\n\nCredit \n1.https://www.youtube.com/watch?v=eTteqdUncLI&t=1004s\n2.Simple
     2D Platformer BE2 Link//https://assetstore.unity.com/\npackages/2d/characters/simple-2d-platformer-assets-pack-188518
@@ -428,7 +428,7 @@ RectTransform:
   m_GameObject: {fileID: 1071743964}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.1846, y: 2.1846, z: 2.1846}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2110217706}
@@ -436,7 +436,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -341.922, y: 209.99998}
+  m_AnchoredPosition: {x: -725.922, y: 408}
   m_SizeDelta: {x: 116.1559, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1071743966
@@ -758,9 +758,9 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
